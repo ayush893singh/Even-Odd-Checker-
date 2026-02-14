@@ -1,4 +1,4 @@
-# Even-Odd-Checker-
+# Even-Odd-Checker.py-
 num = int(input("Ek number enter karo: "))
 
 if num % 2 == 0:
