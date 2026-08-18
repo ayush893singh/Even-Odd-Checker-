@@ -13,16 +13,6 @@ If the remainder is 0, the number is Even.
 Otherwise, the number is Odd.
 The result is displayed on the screen.
 
-## Code
-```
-num = int(input("Ek number enter karo: "))
-
-if num % 2 == 0:
-    print("Yeh number Even hai.")
-else:
-    print("Yeh number Odd hai.")
-```
-
 ## Output
 ```
 Example 1:
